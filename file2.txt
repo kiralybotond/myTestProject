@@ -3,3 +3,6 @@ New change
 this is VS Code test
 
 trying to build develop branch
+
+and more
+and more
